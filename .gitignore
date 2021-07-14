@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+unused_notebooks/
+_unused/
+*.pdf
+*~
+__pycache__
+envs*/*
+*egg-info/
+dask-worker-space
+_html
+sbatch

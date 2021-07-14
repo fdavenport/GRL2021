@@ -1,0 +1,25 @@
+name: /oak/stanford/groups/omramom/group_members/fvdav/projects/precip_clustering/envsnew
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - keras
+  - jupyter-server-proxy
+  - tensorflow[version='>=2.0']
+  - cartopy
+  - scikit-learn
+  - pandas
+  - jupyterlab
+  - seaborn
+  - matplotlib
+  - jupyter
+  - jupytext
+  - python=3.6
+  - netcdf4
+  - regionmask
+  - xarray
+  - geopandas
+  - dask
+  - statsmodels
+  - nodejs
+prefix: /oak/stanford/groups/omramom/group_members/fvdav/projects/precip_clustering/envsnew
