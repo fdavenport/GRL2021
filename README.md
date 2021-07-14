@@ -1,6 +1,10 @@
 ## Using machine learning to analyze physical causes of climate change: a case study of U.S. Midwest extreme precipitation
 
-Supporting code for Davenport and Diffenbaugh (2021)
+Supporting code for Davenport and Diffenbaugh (2021) 'Using machine learning to analyze physical causes of climate change: a case study of U.S. Midwest extreme precipitation' 
+
+#### To cite: 
+
+Davenport, F. V. & Diffenbaugh, N. S. (2021). Using machine learning to analyze physical causes of climate change: a case study of U.S. Midwest extreme precipitation. *Geophysical Research Letters*, 48, e2021GL093787, https://doi.org/10.1029/2021GL093787
 
 If you find meaningful errors in the code of have questions, please contact Frances Davenport at fvdav@stanford.edu
 
