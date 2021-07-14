@@ -1,5 +1,7 @@
 ## Using machine learning to analyze physical causes of climate change: a case study of U.S. Midwest extreme precipitation
 
+[![DOI](https://zenodo.org/badge/386007204.svg)](https://zenodo.org/badge/latestdoi/386007204)
+
 Supporting code for Davenport and Diffenbaugh (2021) 'Using machine learning to analyze physical causes of climate change: a case study of U.S. Midwest extreme precipitation' 
 
 #### To cite: 
