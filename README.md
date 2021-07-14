@@ -27,11 +27,11 @@ Group](http://www.prism.oregonstate.edu/), Oregon State University
 
 * **GHCN precipitation station data**: daily precipitation observations from the Global Historical Climatology Network are available from [NOAA](https://www.ncdc.noaa.gov/ghcnd-data-access). 
 
-Due to the large size of the raw data, pre-processed data has been uploaded to figshare and is available to download [here](https://figshare.com/s/6866d1155989008cc2d2). See **notebooks** directory for more detail on recreating the analysis starting from the pre-processed data. 
+Due to the large size of the raw data, pre-processed data has been uploaded to figshare and is available to download [here](https://figshare.com/articles/dataset/Pre-processed_data_for_Davenport_and_Diffenbaugh_2021/14977440). See **notebooks** directory for more detail on recreating the analysis starting from the pre-processed data. 
 
 ## Steps to run the notebooks:
 1. download this repository  
-2. download pre-processed data [here](https://figshare.com/s/6866d1155989008cc2d2) into the processed_data folder. 
+2. download pre-processed data [here](https://figshare.com/articles/dataset/Pre-processed_data_for_Davenport_and_Diffenbaugh_2021/14977440) into the processed_data folder. 
 3. install the required python modules using conda. The environment.yml and environment_tf1.yml provide information on the required modules. (The environment_tf1.yml files specifies the tensorflow 1 compatible environment needed to calculate the layerwise relevance propagation - see **notebooks** directory for more details)
 4. install project_utils in conda environment with the following command (should be run from within the main project directory): 
 ```bash
