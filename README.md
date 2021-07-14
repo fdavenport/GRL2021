@@ -9,7 +9,7 @@ If you find meaningful errors in the code of have questions, please contact Fran
 * **notebooks**: jupyter notebooks and python scripts to read and analyze data, and create figures
 * **processed_data**: processed data from analysis
 * **project_utils**: python utilities used in analysis (see instructions below to install)
-* **figures**: placeholder directory for figure pdfs
+* **figures** (placeholder directory for figure pdfs)
 * environment.yml (specifies python packages needed to run notebooks)
 * environment_tf1.yml (specifies python packages needed to run the LRP notebook)
 
