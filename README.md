@@ -1,12 +1,15 @@
-# precip-clustering
+## Using machine learning to analyze physical causes of climate change: a case study of U.S. Midwest extreme precipitation
 
-Supporting code 
+Supporting code for Davenport and Diffenbaugh (2021)
+
+If you find meaningful errors in the code of have questions, please contact Frances Davenport at fvdav@stanford.edu
 
 ## Organization of repository 
 * **input_data**: input data used for analysis (not all raw data is included due to size; see details below)
 * **notebooks**: jupyter notebooks and python scripts to read and analyze data, and create figures
 * **processed_data**: processed data from analysis
 * **project_utils**: python utilities used in analysis (see instructions below to install)
+* **figures**: placeholder directory for figure pdfs
 * environment.yml (specifies python packages needed to run notebooks)
 * environment_tf1.yml (specifies python packages needed to run the LRP notebook)
 
