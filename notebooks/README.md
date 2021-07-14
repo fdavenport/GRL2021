@@ -13,7 +13,8 @@ The first three notebooks (0a, 0b, 0c) read raw data and save processed data for
 These notebooks can be skipped if pre-processed data is downloaded [here](https://figshare.com/s/6866d1155989008cc2d2). 
 
 Notebooks 1 and 2 train the CNN, and perform the layerwise relevance propagation calculations. 
-Note: lrp is calculated using the iNNvestigate package, which requires tensorflow <=1.15 (as of writing). 
+* Note 1: The trained model weights are included in the processed data folder. These are recreated by running 1_train_cnn.ipynb. However, as the exact training is subject to some randomness, very slight variations in the training results may arise when training on a different computer.
+* Note 2: lrp is calculated using the iNNvestigate package, which requires tensorflow <=1.15 (as of writing). 
 The lrp notebook was run in the environment specified by the environment_tf1.yml file in the main project directory. (The lrp results are also included with the pre-processed data [here](https://figshare.com/s/6866d1155989008cc2d2)). 
 
 The remaining notebooks perform additional calculations and create the final figures: 
